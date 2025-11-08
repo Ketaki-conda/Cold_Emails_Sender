@@ -1,36 +1,24 @@
-Hello,
+Hi [Name],
 
-I am writing to express my interest in Software Automation Testing / Functional Testing opportunities within your organization.
+I hope you’re doing well. I’m reaching out to express my interest in exploring QA opportunities with [Company Name]. I’ve been following your work on [mention a product, platform, or recent project if possible] and was really impressed by your focus on innovation and product excellence.
 
-Experience Summary -
+I’m an ISTQB Certified QA Engineer with over 4 years of experience in automation testing, primarily using TOSCA, Selenium, and API testing frameworks. I’ve worked extensively with clients in the insurance and digital domains, ensuring end-to-end quality across web, mobile, and backend systems.
 
-Total Experience: 3+ years in Selenium (Java and TestNG), Cucumber, TOSCA, API Testing and Guidewire.
-Additional Expertise: Selenium(Test NG), Cucumber, Automation Testing (TOSCA), Functional Testing
-Open to work in all domains.
+My key strengths include:
 
-I’m currently working with Capgemini and serving my notice period.
+Designing and maintaining robust TOSCA automation frameworks that improved execution speed by over 40%.
 
-Last working day: 31st October 2025
-Current CTC: 8.6 LPA
-Location - Mumbai 
+Performing API validations and regression testing using tools like Postman and Rest Assured.
 
-Key Skills - 
+Collaborating closely with developers, BAs, and product owners to identify defects early and enhance test coverage.
 
-Automation Tools: Selenium WebDriver (Java), TOSCA, Cucumber BDD
-Programming/Scripting: Java, Python
-API Testing: Postman, Rest Assured
-Performance Testing: JMeter
-Version Control & CI/CD: Git, GitHub, Jenkins, Docker
-Cloud Knowledge: AWS Certified Cloud Practitioner
-Test Management: JIRA, ALM
-Methodologies: Agile (Scrum), Defect Tracking, Test Design & Execution
-Strong knowledge in Functional, Regression, Integration, and E2E Testing
+Supporting Guidewire implementation projects by integrating automated test suites within CI/CD pipelines.
 
-I have attached my resume for your reference.
-Kindly consider my profile for SDET and Software Testing roles in your organization.
+What excites me most about [Company Name] is the opportunity to work on scalable, high-impact digital products where testing truly drives the customer experience. I believe my blend of technical expertise and problem-solving approach could contribute meaningfully to your QA goals.
 
-Regards,
+I would be grateful if we could schedule a short discussion to explore how I can add value to your team. Please find my resume attached for reference.
 
-Ketaki G. Dhotre
-📱 +91 99879 18247
-📧 ketakidhotre3@gmail.com
+Looking forward to your response.
+
+Best regards,
+ABC
