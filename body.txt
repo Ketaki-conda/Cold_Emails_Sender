@@ -1,0 +1,36 @@
+Hello,
+
+I am writing to express my interest in Software Automation Testing / Functional Testing opportunities within your organization.
+
+Experience Summary -
+
+Total Experience: 3+ years in Selenium (Java and TestNG), Cucumber, TOSCA, API Testing and Guidewire.
+Additional Expertise: Selenium(Test NG), Cucumber, Automation Testing (TOSCA), Functional Testing
+Open to work in all domains.
+
+I’m currently working with Capgemini and serving my notice period.
+
+Last working day: 31st October 2025
+Current CTC: 8.6 LPA
+Location - Mumbai 
+
+Key Skills - 
+
+Automation Tools: Selenium WebDriver (Java), TOSCA, Cucumber BDD
+Programming/Scripting: Java, Python
+API Testing: Postman, Rest Assured
+Performance Testing: JMeter
+Version Control & CI/CD: Git, GitHub, Jenkins, Docker
+Cloud Knowledge: AWS Certified Cloud Practitioner
+Test Management: JIRA, ALM
+Methodologies: Agile (Scrum), Defect Tracking, Test Design & Execution
+Strong knowledge in Functional, Regression, Integration, and E2E Testing
+
+I have attached my resume for your reference.
+Kindly consider my profile for SDET and Software Testing roles in your organization.
+
+Regards,
+
+Ketaki G. Dhotre
+📱 +91 99879 18247
+📧 ketakidhotre3@gmail.com
