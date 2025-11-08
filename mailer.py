@@ -9,8 +9,8 @@ import csv
 # -------------------- CONFIGURATION --------------------
 SMTP_SERVER = "smtp.gmail.com"   # Gmail
 SMTP_PORT = 465                  # SSL port
-SENDER_EMAIL = "ketakidhotre3@gmail.com"
-PASSWORD = "dgzw vxkr keak nvpb"   # Use Gmail App Password
+SENDER_EMAIL = "YOUR_GMAIL@gmail.com"
+PASSWORD = "GMAIL_APP_PASSWORD_KEY"   # Use Gmail App Password
 RESUME_FILE = "YOUR_RESUME_PDF.pdf"       # Resume file path
 CSV_FILE = "emails.csv"          # CSV with only emails
 SUBJECT_FILE = "subject.txt"     # File containing subject
